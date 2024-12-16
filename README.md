@@ -6,7 +6,7 @@
 Criar um trocador aleatório de cores para o fundo da página e aprender a identificar e corrigir erros no código (debugging).
 
 ## 2️⃣ Descrição
-Este é o quarto curso da trilha *JavaScript Algorithms and Data Structures Certification*.
+Este é o quarto curso da trilha **JavaScript Algorithms and Data Structures Certification**.
 
 Debugging é o processo de analisar, identificar e corrigir problemas no código.
 
@@ -17,10 +17,7 @@ Neste mini projeto, o foco está em revisar conceitos fundamentais de JavaScript
 - Debugging passo a passo para corrigir erros e otimizar o funcionamento do script.
 
 ## 3️⃣ Principais Modificações
-Para consolidar o aprendizado, criei:
-
-- Uma página HTML para registrar as principais informações do curso;
-- Um arquivo CSS para personalizá-la, garantindo um layout visualmente agradável.
+Criei uma página HTML para registrar informações importantes do tutorial e um arquivo CSS para personalizá-la.
 
 ## 4️⃣ Tecnologias Utilizadas
 
@@ -35,7 +32,7 @@ Para consolidar o aprendizado, criei:
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+Agradeço ao **freeCodeCamp** por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
 - <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
 
 ## 6️⃣ Licença
